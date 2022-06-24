@@ -1,3 +1,6 @@
+//19090125 - Ramdon Baehaki Nur Faiz
+//19098001 - Saksono Bayu Ajie Sumantri
+
 from flask import Flask, jsonify, request,make_response
 import os, random, string
 from flask_sqlalchemy import SQLAlchemy
